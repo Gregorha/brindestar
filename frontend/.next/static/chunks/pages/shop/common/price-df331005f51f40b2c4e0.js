@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[112],{PF9O:function(n,_,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/shop/common/price",function(){return o("5XCa")}])}},[["PF9O",1,0,2,18]]]);

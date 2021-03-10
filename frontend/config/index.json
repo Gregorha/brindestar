@@ -1,0 +1,10 @@
+{
+    "firebase" : {
+        "apiKey": "AIzaSyAemSn9vCKBX7GjRJGOuUif3PLUUOrbgVo",
+        "authDomain": "brindestar-714f6.firebaseapp.com",
+        "projectId": "brindestar-714f6",
+        "storageBucket": "brindestar-714f6.appspot.com",
+        "messagingSenderId": "368513608343",
+        "appId": "1:368513608343:web:1e2fa67c24da0f1cc017d2"
+    }
+}
